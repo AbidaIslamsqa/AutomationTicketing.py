@@ -1,0 +1,262 @@
+2024-04-04 23:39:27,937 :INFO :test_loginWithRemember :Step-1: Opening the Ticketing Page
+2024-04-04 23:39:32,938 :INFO :test_loginWithRemember :Step-2: Clicking on the Login Button
+2024-04-04 23:39:33,471 :INFO :test_loginWithRemember :Step-3: Entering the Email Address
+2024-04-04 23:39:38,511 :INFO :test_loginWithRemember :Step-4: Entering the Password
+2024-04-04 23:39:38,521 :INFO :test_loginWithRemember :Step-5: Checking the remember me checkbox
+2024-04-04 23:39:43,730 :INFO :test_loginWithRemember :Step-6: Clicking the Login Button
+2024-04-04 23:39:52,759 :INFO :test_loginWithRemember :Step-1: Opening the Ticketing Page
+2024-04-04 23:39:52,759 :INFO :test_loginWithRemember :Step-1: Opening the Ticketing Page
+2024-04-04 23:39:57,760 :INFO :test_loginWithRemember :Step-2: Clicking on the Login Button
+2024-04-04 23:39:57,760 :INFO :test_loginWithRemember :Step-2: Clicking on the Login Button
+2024-04-04 23:39:57,909 :INFO :test_loginWithRemember :Step-3: Entering the Email Address
+2024-04-04 23:39:57,909 :INFO :test_loginWithRemember :Step-3: Entering the Email Address
+2024-04-04 23:40:02,926 :INFO :test_loginWithRemember :Step-4: Entering the Password
+2024-04-04 23:40:02,926 :INFO :test_loginWithRemember :Step-4: Entering the Password
+2024-04-04 23:40:02,935 :INFO :test_loginWithRemember :Step-5: Checking the remember me checkbox
+2024-04-04 23:40:02,935 :INFO :test_loginWithRemember :Step-5: Checking the remember me checkbox
+2024-04-04 23:40:08,149 :INFO :test_loginWithRemember :Step-6: Clicking the Login Button
+2024-04-04 23:40:08,149 :INFO :test_loginWithRemember :Step-6: Clicking the Login Button
+2024-04-04 23:49:26,342 :INFO :test_loginWithRemember :Step-1: Opening the Ticketing Page
+2024-04-04 23:49:31,343 :INFO :test_loginWithRemember :Step-2: Clicking on the Login Button
+2024-04-04 23:49:31,919 :INFO :test_loginWithRemember :Step-3: Entering the Invalid Email Address
+2024-04-04 23:49:36,968 :INFO :test_loginWithRemember :Step-4: Entering the Password
+2024-04-04 23:49:37,012 :INFO :test_loginWithRemember :Step-5: Checking the remember me checkbox
+2024-04-04 23:49:42,045 :INFO :test_loginWithRemember :Step-6: Clicking the Login Button
+2024-04-04 23:49:48,828 :INFO :test_loginWithRemember :Step-1: Opening the Ticketing Page
+2024-04-04 23:49:48,828 :INFO :test_loginWithRemember :Step-1: Opening the Ticketing Page
+2024-04-04 23:49:53,829 :INFO :test_loginWithRemember :Step-2: Clicking on the Login Button
+2024-04-04 23:49:53,829 :INFO :test_loginWithRemember :Step-2: Clicking on the Login Button
+2024-04-04 23:51:11,358 :INFO :test_loginWithRemember :Step-1: Opening the Ticketing Page
+2024-04-04 23:51:16,360 :INFO :test_loginWithRemember :Step-2: Clicking on the Login Button
+2024-04-04 23:51:16,747 :INFO :test_loginWithRemember :Step-3: Entering the Invalid Email Address
+2024-04-04 23:51:21,791 :INFO :test_loginWithRemember :Step-4: Entering the Password
+2024-04-04 23:51:21,840 :INFO :test_loginWithRemember :Step-5: Checking the remember me checkbox
+2024-04-04 23:51:26,874 :INFO :test_loginWithRemember :Step-6: Clicking the Login Button
+2024-04-05 00:02:41,841 :INFO :test_loginWithRemember :Step-1: Opening the Ticketing Page
+2024-04-05 00:02:46,843 :INFO :test_loginWithRemember :Step-2: Clicking on the Login Button
+2024-04-05 00:02:47,243 :INFO :test_loginWithRemember :Step-3: Entering the Invalid Email Address
+2024-04-05 00:02:52,295 :INFO :test_loginWithRemember :Step-4: Entering the Password
+2024-04-05 00:02:52,333 :INFO :test_loginWithRemember :Step-5: Checking the remember me checkbox
+2024-04-05 00:02:57,364 :INFO :test_loginWithRemember :Step-6: Clicking the Login Button
+2024-04-07 23:04:56,149 :INFO :test_loginWithRemember :Step-1: Opening the Ticketing Page
+2024-04-07 23:05:01,150 :INFO :test_loginWithRemember :Step-2: Clicking on the Login Button
+2024-04-07 23:05:01,503 :INFO :test_loginWithRemember :Step-3: Entering the Invalid Email Address
+2024-04-07 23:05:06,552 :INFO :test_loginWithRemember :Step-4: Entering the Password
+2024-04-07 23:05:06,598 :INFO :test_loginWithRemember :Step-5: Checking the remember me checkbox
+2024-04-07 23:05:11,631 :INFO :test_loginWithRemember :Step-6: Clicking the Login Button
+2024-04-07 23:05:44,206 :INFO :test_loginWithRemember :Step-1: Opening the Ticketing Page
+2024-04-07 23:05:49,207 :INFO :test_loginWithRemember :Step-2: Clicking on the Login Button
+2024-04-07 23:05:49,620 :INFO :test_loginWithRemember :Step-3: Entering the Invalid Email Address
+2024-04-07 23:05:54,675 :INFO :test_loginWithRemember :Step-4: Entering the Password
+2024-04-07 23:05:54,723 :INFO :test_loginWithRemember :Step-5: Checking the remember me checkbox
+2024-04-07 23:05:59,758 :INFO :test_loginWithRemember :Step-6: Clicking the Login Button
+2024-04-07 23:10:31,600 :INFO :test_loginWithRemember :Step-1: Opening the Ticketing Page
+2024-04-07 23:10:36,602 :INFO :test_loginWithRemember :Step-2: Clicking on the Login Button
+2024-04-07 23:10:37,135 :INFO :test_loginWithRemember :Step-3: Entering the Invalid Email Address
+2024-04-07 23:10:42,149 :INFO :test_loginWithRemember :Step-4: Entering the Password
+2024-04-07 23:10:42,160 :INFO :test_loginWithRemember :Step-5: Checking the remember me checkbox
+2024-04-07 23:10:47,370 :INFO :test_loginWithRemember :Step-6: Clicking the Login Button
+2024-04-07 23:11:56,965 :INFO :test_loginWithRemember :Step-1: Opening the Ticketing Page
+2024-04-07 23:12:01,966 :INFO :test_loginWithRemember :Step-2: Clicking on the Login Button
+2024-04-07 23:12:02,520 :INFO :test_loginWithRemember :Step-3: Entering the Invalid Email Address
+2024-04-07 23:12:07,536 :INFO :test_loginWithRemember :Step-4: Entering the Password
+2024-04-07 23:12:07,547 :INFO :test_loginWithRemember :Step-5: Checking the remember me checkbox
+2024-04-07 23:12:12,756 :INFO :test_loginWithRemember :Step-6: Clicking the Login Button
+2024-04-07 23:13:05,409 :INFO :test_loginWithRemember :Step-1: Opening the Ticketing Page
+2024-04-07 23:13:10,411 :INFO :test_loginWithRemember :Step-2: Clicking on the Login Button
+2024-04-07 23:13:10,830 :INFO :test_loginWithRemember :Step-3: Entering the Invalid Email Address
+2024-04-07 23:13:15,880 :INFO :test_loginWithRemember :Step-4: Entering the Password
+2024-04-07 23:13:15,928 :INFO :test_loginWithRemember :Step-5: Checking the remember me checkbox
+2024-04-07 23:13:20,962 :INFO :test_loginWithRemember :Step-6: Clicking the Login Button
+2024-04-07 23:15:14,172 :INFO :test_loginWithRemember :Step-1: Opening the Ticketing Page
+2024-04-07 23:15:19,173 :INFO :test_loginWithRemember :Step-2: Clicking on the Login Button
+2024-04-07 23:15:19,614 :INFO :test_loginWithRemember :Step-3: Entering the Invalid Email Address
+2024-04-07 23:15:24,665 :INFO :test_loginWithRemember :Step-4: Entering the Password
+2024-04-07 23:15:24,708 :INFO :test_loginWithRemember :Step-5: Checking the remember me checkbox
+2024-04-07 23:15:29,743 :INFO :test_loginWithRemember :Step-6: Clicking the Login Button
+2024-04-07 23:18:13,624 :INFO :test_loginWithRemember :Step-1: Opening the Ticketing Page
+2024-04-07 23:18:18,625 :INFO :test_loginWithRemember :Step-2: Clicking on the Login Button
+2024-04-07 23:18:19,874 :INFO :test_loginWithRemember :Step-3: Entering the Invalid Email Address
+2024-04-07 23:18:24,921 :INFO :test_loginWithRemember :Step-4: Entering the Password
+2024-04-07 23:18:24,965 :INFO :test_loginWithRemember :Step-5: Checking the remember me checkbox
+2024-04-07 23:18:30,002 :INFO :test_loginWithRemember :Step-6: Clicking the Login Button
+2024-04-29 16:16:21,574 :INFO :test_loginWithRemember :Step-1: Opening the Ticketing Page
+2024-04-29 16:16:26,576 :INFO :test_loginWithRemember :Step-2: Clicking on the Login Button
+2024-04-29 16:16:27,605 :INFO :test_loginWithRemember :Step-3: Entering the Invalid Email Address
+2024-04-29 16:16:32,636 :INFO :test_loginWithRemember :Step-4: Entering the Password
+2024-04-29 16:16:32,663 :INFO :test_loginWithRemember :Step-5: Checking the remember me checkbox
+2024-04-29 16:16:37,883 :INFO :test_loginWithRemember :Step-6: Clicking the Login Button
+2024-04-29 16:17:51,505 :INFO :test_loginWithRemember :Step-1: Opening the Ticketing Page
+2024-04-29 16:17:56,507 :INFO :test_loginWithRemember :Step-2: Clicking on the Login Button
+2024-04-29 16:17:57,815 :INFO :test_loginWithRemember :Step-3: Entering the Invalid Email Address
+2024-04-29 16:18:02,833 :INFO :test_loginWithRemember :Step-4: Entering the Password
+2024-04-29 16:18:02,863 :INFO :test_loginWithRemember :Step-5: Checking the remember me checkbox
+2024-04-29 16:18:08,105 :INFO :test_loginWithRemember :Step-6: Clicking the Login Button
+2024-05-01 12:24:15,088 :INFO :test_loginWithRemember :Step-1: Opening the Ticketing Page
+2024-05-01 12:24:20,090 :INFO :test_loginWithRemember :Step-2: Clicking on the Login Button
+2024-05-01 12:24:21,091 :INFO :test_loginWithRemember :Step-3: Entering the Invalid Email Address
+2024-05-01 12:24:26,121 :INFO :test_loginWithRemember :Step-4: Entering the Password
+2024-05-01 12:24:26,145 :INFO :test_loginWithRemember :Step-5: Checking the remember me checkbox
+2024-05-01 12:24:31,369 :INFO :test_loginWithRemember :Step-6: Clicking the Login Button
+2024-05-01 12:26:37,070 :INFO :test_loginWithRemember :Step-1: Opening the Ticketing Page
+2024-05-01 12:26:42,072 :INFO :test_loginWithRemember :Step-2: Clicking on the Login Button
+2024-05-01 12:26:43,001 :INFO :test_loginWithRemember :Step-3: Entering the Invalid Email Address
+2024-05-01 12:26:48,033 :INFO :test_loginWithRemember :Step-4: Entering the Password
+2024-05-01 12:26:48,054 :INFO :test_loginWithRemember :Step-5: Checking the remember me checkbox
+2024-05-01 12:26:53,270 :INFO :test_loginWithRemember :Step-6: Clicking the Login Button
+2024-05-01 12:28:38,257 :INFO :test_loginWithRemember :Step-1: Opening the Ticketing Page
+2024-05-01 12:28:43,259 :INFO :test_loginWithRemember :Step-2: Clicking on the Login Button
+2024-05-01 12:28:44,149 :INFO :test_loginWithRemember :Step-3: Entering the Invalid Email Address
+2024-05-01 12:28:49,169 :INFO :test_loginWithRemember :Step-4: Entering the Password
+2024-05-01 12:28:49,196 :INFO :test_loginWithRemember :Step-5: Checking the remember me checkbox
+2024-05-01 12:28:54,409 :INFO :test_loginWithRemember :Step-6: Clicking the Login Button
+2024-05-01 12:52:06,123 :INFO :test_loginWithRemember :Step-1: Opening the Ticketing Page
+2024-05-01 12:52:11,123 :INFO :test_loginWithRemember :Step-2: Clicking on the Login Button
+2024-05-01 12:52:11,888 :INFO :test_loginWithRemember :Step-3: Entering the Invalid Email Address
+2024-05-01 12:52:17,004 :INFO :test_loginWithRemember :Step-4: Entering the Password
+2024-05-01 12:52:17,077 :INFO :test_loginWithRemember :Step-5: Checking the remember me checkbox
+2024-05-01 12:52:22,150 :INFO :test_loginWithRemember :Step-6: Clicking the Login Button
+2024-05-01 12:58:02,101 :INFO :test_loginWithRemember :Step-1: Opening the Ticketing Page
+2024-05-01 12:58:07,103 :INFO :test_loginWithRemember :Step-2: Clicking on the Login Button
+2024-05-01 12:58:07,964 :INFO :test_loginWithRemember :Step-3: Entering the Invalid Email Address
+2024-05-01 12:58:12,990 :INFO :test_loginWithRemember :Step-4: Entering the Password
+2024-05-01 12:58:13,016 :INFO :test_loginWithRemember :Step-5: Checking the remember me checkbox
+2024-05-01 12:58:18,237 :INFO :test_loginWithRemember :Step-6: Clicking the Login Button
+2024-05-03 20:49:27,420 :INFO :test_loginWithRemember :Step-1: Opening the Ticketing Page
+2024-05-03 20:49:32,430 :INFO :test_loginWithRemember :Step-2: Clicking on the Login Button
+2024-05-03 20:49:37,566 :INFO :test_loginWithRemember :Step-3: Entering the Invalid Email Address
+2024-05-03 20:49:42,585 :INFO :test_loginWithRemember :Step-4: Entering the Password
+2024-05-03 20:49:42,619 :INFO :test_loginWithRemember :Step-5: Checking the remember me checkbox
+2024-05-03 20:49:47,842 :INFO :test_loginWithRemember :Step-6: Clicking the Login Button
+2024-05-03 20:50:02,011 :INFO :test_loginWithRemember :Step-1: Opening the Ticketing Page
+2024-05-03 20:50:02,011 :INFO :test_loginWithRemember :Step-1: Opening the Ticketing Page
+2024-05-03 20:50:07,014 :INFO :test_loginWithRemember :Step-2: Clicking on the Login Button
+2024-05-03 20:50:07,014 :INFO :test_loginWithRemember :Step-2: Clicking on the Login Button
+2024-05-03 20:50:08,751 :INFO :test_loginWithRemember :Step-3: Entering the Email Address
+2024-05-03 20:50:08,751 :INFO :test_loginWithRemember :Step-3: Entering the Email Address
+2024-05-03 20:50:13,772 :INFO :test_loginWithRemember :Step-4: Entering the Password
+2024-05-03 20:50:13,772 :INFO :test_loginWithRemember :Step-4: Entering the Password
+2024-05-03 20:50:13,807 :INFO :test_loginWithRemember :Step-5: Checking the remember me checkbox
+2024-05-03 20:50:13,807 :INFO :test_loginWithRemember :Step-5: Checking the remember me checkbox
+2024-05-03 20:50:19,028 :INFO :test_loginWithRemember :Step-6: Clicking the Login Button
+2024-05-03 20:50:19,028 :INFO :test_loginWithRemember :Step-6: Clicking the Login Button
+2024-05-03 20:50:28,788 :INFO :test_loginWithRemember :Step-1: Opening the Ticketing Page
+2024-05-03 20:50:28,788 :INFO :test_loginWithRemember :Step-1: Opening the Ticketing Page
+2024-05-03 20:50:28,788 :INFO :test_loginWithRemember :Step-1: Opening the Ticketing Page
+2024-05-03 20:50:33,789 :INFO :test_loginWithRemember :Step-2: Clicking on the Login Button
+2024-05-03 20:50:33,789 :INFO :test_loginWithRemember :Step-2: Clicking on the Login Button
+2024-05-03 20:50:33,789 :INFO :test_loginWithRemember :Step-2: Clicking on the Login Button
+2024-05-03 20:50:33,996 :INFO :test_loginWithRemember :Step-3: Entering the Email Address
+2024-05-03 20:50:33,996 :INFO :test_loginWithRemember :Step-3: Entering the Email Address
+2024-05-03 20:50:33,996 :INFO :test_loginWithRemember :Step-3: Entering the Email Address
+2024-05-03 20:50:39,023 :INFO :test_loginWithRemember :Step-4: Entering the Password
+2024-05-03 20:50:39,023 :INFO :test_loginWithRemember :Step-4: Entering the Password
+2024-05-03 20:50:39,023 :INFO :test_loginWithRemember :Step-4: Entering the Password
+2024-05-03 20:50:39,056 :INFO :test_loginWithRemember :Step-5: Checking the remember me checkbox
+2024-05-03 20:50:39,056 :INFO :test_loginWithRemember :Step-5: Checking the remember me checkbox
+2024-05-03 20:50:39,056 :INFO :test_loginWithRemember :Step-5: Checking the remember me checkbox
+2024-05-03 20:50:44,273 :INFO :test_loginWithRemember :Step-6: Clicking the Login Button
+2024-05-03 20:50:44,273 :INFO :test_loginWithRemember :Step-6: Clicking the Login Button
+2024-05-03 20:50:44,273 :INFO :test_loginWithRemember :Step-6: Clicking the Login Button
+2024-05-03 21:28:51,809 :INFO :test_loginWithRemember :Step-1: Opening the Ticketing Page
+2024-05-03 21:28:56,816 :INFO :test_loginWithRemember :Step-2: Clicking on the Login Button
+2024-05-03 21:29:01,328 :INFO :test_loginWithRemember :Step-3: Entering the Invalid Email Address
+2024-05-03 21:29:06,416 :INFO :test_loginWithRemember :Step-4: Entering the Password
+2024-05-03 21:29:06,501 :INFO :test_loginWithRemember :Step-5: Checking the remember me checkbox
+2024-05-03 21:29:11,562 :INFO :test_loginWithRemember :Step-6: Clicking the Login Button
+2024-05-03 21:29:27,709 :INFO :test_loginWithRemember :Step-1: Opening the Ticketing Page
+2024-05-03 21:29:27,709 :INFO :test_loginWithRemember :Step-1: Opening the Ticketing Page
+2024-05-03 21:29:32,712 :INFO :test_loginWithRemember :Step-2: Clicking on the Login Button
+2024-05-03 21:29:32,712 :INFO :test_loginWithRemember :Step-2: Clicking on the Login Button
+2024-05-03 21:29:37,901 :INFO :test_loginWithRemember :Step-3: Entering the Email Address
+2024-05-03 21:29:37,901 :INFO :test_loginWithRemember :Step-3: Entering the Email Address
+2024-05-03 21:29:42,986 :INFO :test_loginWithRemember :Step-4: Entering the Password
+2024-05-03 21:29:42,986 :INFO :test_loginWithRemember :Step-4: Entering the Password
+2024-05-03 21:29:43,051 :INFO :test_loginWithRemember :Step-5: Checking the remember me checkbox
+2024-05-03 21:29:43,051 :INFO :test_loginWithRemember :Step-5: Checking the remember me checkbox
+2024-05-03 21:29:48,114 :INFO :test_loginWithRemember :Step-6: Clicking the Login Button
+2024-05-03 21:29:48,114 :INFO :test_loginWithRemember :Step-6: Clicking the Login Button
+2024-05-03 21:30:24,359 :INFO :test_loginWithRemember :Step-1: Opening the Ticketing Page
+2024-05-03 21:30:24,359 :INFO :test_loginWithRemember :Step-1: Opening the Ticketing Page
+2024-05-03 21:30:24,359 :INFO :test_loginWithRemember :Step-1: Opening the Ticketing Page
+2024-05-03 21:30:29,362 :INFO :test_loginWithRemember :Step-2: Clicking on the Login Button
+2024-05-03 21:30:29,362 :INFO :test_loginWithRemember :Step-2: Clicking on the Login Button
+2024-05-03 21:30:29,362 :INFO :test_loginWithRemember :Step-2: Clicking on the Login Button
+2024-05-03 21:30:29,601 :INFO :test_loginWithRemember :Step-3: Entering the Email Address
+2024-05-03 21:30:29,601 :INFO :test_loginWithRemember :Step-3: Entering the Email Address
+2024-05-03 21:30:29,601 :INFO :test_loginWithRemember :Step-3: Entering the Email Address
+2024-05-03 21:30:34,691 :INFO :test_loginWithRemember :Step-4: Entering the Password
+2024-05-03 21:30:34,691 :INFO :test_loginWithRemember :Step-4: Entering the Password
+2024-05-03 21:30:34,691 :INFO :test_loginWithRemember :Step-4: Entering the Password
+2024-05-03 21:30:34,758 :INFO :test_loginWithRemember :Step-5: Checking the remember me checkbox
+2024-05-03 21:30:34,758 :INFO :test_loginWithRemember :Step-5: Checking the remember me checkbox
+2024-05-03 21:30:34,758 :INFO :test_loginWithRemember :Step-5: Checking the remember me checkbox
+2024-05-03 21:30:39,793 :INFO :test_loginWithRemember :Step-6: Clicking the Login Button
+2024-05-03 21:30:39,793 :INFO :test_loginWithRemember :Step-6: Clicking the Login Button
+2024-05-03 21:30:39,793 :INFO :test_loginWithRemember :Step-6: Clicking the Login Button
+2024-05-03 21:37:17,418 :INFO :test_loginWithRemember :Step-1: Opening the Ticketing Page
+2024-05-03 21:37:22,420 :INFO :test_loginWithRemember :Step-2: Clicking on the Login Button
+2024-05-03 21:37:28,526 :INFO :test_loginWithRemember :Step-3: Entering the Email Address
+2024-05-03 21:37:33,615 :INFO :test_loginWithRemember :Step-4: Entering the Password
+2024-05-03 21:37:33,682 :INFO :test_loginWithRemember :Step-5: Checking the remember me checkbox
+2024-05-03 21:37:38,719 :INFO :test_loginWithRemember :Step-6: Clicking the Login Button
+2024-05-03 21:38:03,338 :INFO :test_loginWithRemember :Step-1: Opening the Ticketing Page
+2024-05-03 21:38:03,338 :INFO :test_loginWithRemember :Step-1: Opening the Ticketing Page
+2024-05-03 21:38:08,342 :INFO :test_loginWithRemember :Step-2: Clicking on the Login Button
+2024-05-03 21:38:08,342 :INFO :test_loginWithRemember :Step-2: Clicking on the Login Button
+2024-05-03 21:38:08,578 :INFO :test_loginWithRemember :Step-3: Entering the Email Address
+2024-05-03 21:38:08,578 :INFO :test_loginWithRemember :Step-3: Entering the Email Address
+2024-05-03 21:38:13,654 :INFO :test_loginWithRemember :Step-4: Entering the Password
+2024-05-03 21:38:13,654 :INFO :test_loginWithRemember :Step-4: Entering the Password
+2024-05-03 21:38:13,713 :INFO :test_loginWithRemember :Step-5: Checking the remember me checkbox
+2024-05-03 21:38:13,713 :INFO :test_loginWithRemember :Step-5: Checking the remember me checkbox
+2024-05-03 21:38:18,744 :INFO :test_loginWithRemember :Step-6: Clicking the Login Button
+2024-05-03 21:38:18,744 :INFO :test_loginWithRemember :Step-6: Clicking the Login Button
+2024-05-03 21:46:22,964 :INFO :test_loginWithRemember :Step-1: Opening the Ticketing Page
+2024-05-03 21:46:27,971 :INFO :test_loginWithRemember :Step-2: Clicking on the Login Button
+2024-05-03 21:46:30,326 :INFO :test_loginWithRemember :Step-3: Entering the Invalid Email Address
+2024-05-03 21:46:35,345 :INFO :test_loginWithRemember :Step-4: Entering the Password
+2024-05-03 21:46:35,375 :INFO :test_loginWithRemember :Step-5: Checking the remember me checkbox
+2024-05-03 21:46:40,597 :INFO :test_loginWithRemember :Step-6: Clicking the Login Button
+2024-05-03 22:03:32,446 :INFO :test_loginWithRemember :Step-1: Opening the Ticketing Page
+2024-05-03 22:03:37,453 :INFO :test_loginWithRemember :Step-2: Clicking on the Login Button
+2024-05-03 22:03:40,983 :INFO :test_loginWithRemember :Step-3: Entering the Invalid Email Address
+2024-05-03 22:03:46,004 :INFO :test_loginWithRemember :Step-4: Entering the Password
+2024-05-03 22:03:46,032 :INFO :test_loginWithRemember :Step-5: Checking the remember me checkbox
+2024-05-03 22:03:51,252 :INFO :test_loginWithRemember :Step-6: Clicking the Login Button
+2024-05-03 22:07:55,000 :INFO :test_loginWithRemember :Step-1: Opening the Ticketing Page
+2024-05-03 22:08:00,002 :INFO :test_loginWithRemember :Step-2: Clicking on the Login Button
+2024-05-03 22:08:03,404 :INFO :test_loginWithRemember :Step-3: Entering the Invalid Email Address
+2024-05-03 22:08:08,423 :INFO :test_loginWithRemember :Step-4: Entering the Password
+2024-05-03 22:08:08,448 :INFO :test_loginWithRemember :Step-5: Checking the remember me checkbox
+2024-05-03 22:08:13,664 :INFO :test_loginWithRemember :Step-6: Clicking the Login Button
+2024-05-04 23:12:21,710 :INFO :test_loginWithRemember :Step-1: Opening the Ticketing Page
+2024-05-04 23:12:26,711 :INFO :test_loginWithRemember :Step-2: Clicking on the Login Button
+2024-05-04 23:12:35,538 :INFO :test_loginWithRemember :Step-3: Entering the Email Address
+2024-05-04 23:12:40,625 :INFO :test_loginWithRemember :Step-4: Entering the Password
+2024-05-04 23:12:40,688 :INFO :test_loginWithRemember :Step-5: Checking the remember me checkbox
+2024-05-04 23:12:45,737 :INFO :test_loginWithRemember :Step-6: Clicking the Login Button
+2024-05-04 23:13:20,158 :INFO :test_loginWithRemember :Step-1: Opening the Ticketing Page
+2024-05-04 23:13:20,158 :INFO :test_loginWithRemember :Step-1: Opening the Ticketing Page
+2024-05-04 23:13:25,159 :INFO :test_loginWithRemember :Step-2: Clicking on the Login Button
+2024-05-04 23:13:25,159 :INFO :test_loginWithRemember :Step-2: Clicking on the Login Button
+2024-05-04 23:13:25,718 :INFO :test_loginWithRemember :Step-3: Entering the Email Address
+2024-05-04 23:13:25,718 :INFO :test_loginWithRemember :Step-3: Entering the Email Address
+2024-05-04 23:13:30,784 :INFO :test_loginWithRemember :Step-4: Entering the Password
+2024-05-04 23:13:30,784 :INFO :test_loginWithRemember :Step-4: Entering the Password
+2024-05-04 23:13:30,828 :INFO :test_loginWithRemember :Step-5: Checking the remember me checkbox
+2024-05-04 23:13:30,828 :INFO :test_loginWithRemember :Step-5: Checking the remember me checkbox
+2024-05-04 23:13:35,851 :INFO :test_loginWithRemember :Step-6: Clicking the Login Button
+2024-05-04 23:13:35,851 :INFO :test_loginWithRemember :Step-6: Clicking the Login Button
+2024-05-04 23:17:15,565 :INFO :test_loginWithRemember :Step-1: Opening the Ticketing Page
+2024-05-04 23:17:20,566 :INFO :test_loginWithRemember :Step-2: Clicking on the Login Button
+2024-05-04 23:17:24,426 :INFO :test_loginWithRemember :Step-3: Entering the Invalid Email Address
+2024-05-04 23:17:29,521 :INFO :test_loginWithRemember :Step-4: Entering the Password
+2024-05-04 23:17:29,576 :INFO :test_loginWithRemember :Step-5: Checking the remember me checkbox
+2024-05-04 23:17:34,613 :INFO :test_loginWithRemember :Step-6: Clicking the Login Button
+2024-05-06 22:23:38,900 :INFO :test_loginWithRemember :Step-1: Opening the Ticketing Page
+2024-05-06 22:23:43,902 :INFO :test_loginWithRemember :Step-2: Clicking on the Login Button
+2024-05-06 22:23:57,078 :INFO :test_loginWithRemember :Step-3: Entering the Invalid Email Address
+2024-05-06 22:24:02,198 :INFO :test_loginWithRemember :Step-4: Entering the Password
+2024-05-06 22:24:02,292 :INFO :test_loginWithRemember :Step-5: Checking the remember me checkbox
+2024-05-06 22:24:07,362 :INFO :test_loginWithRemember :Step-6: Clicking the Login Button
